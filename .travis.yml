@@ -1,4 +1,5 @@
 language: java
+install: true
 script:
   - echo "Hello let's build java project with maven"
   - mvn package
